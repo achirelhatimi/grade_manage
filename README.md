@@ -1,3 +1,4 @@
+# must configure application_properties to run the project 
 # Student Grade Management REST API
 
 A Spring Boot-based RESTful API for managing students, courses, and grades with JWT authentication and Swagger documentation.
